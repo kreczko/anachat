@@ -87,3 +87,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Do not upload slackbot settings
+hepbot/slackbot_settings.py
